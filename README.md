@@ -1,4 +1,4 @@
 # Hello-World
-My First Repository.
-Hello,
+
+Hello,<endl>
 This is my first attempt at using GitHub.
